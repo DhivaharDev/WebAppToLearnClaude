@@ -171,13 +171,6 @@ export default function Home() {
                 This field displays the formatted result after processing your input
               </p>
             </div>
-
-            {/* Footer */}
-            <div className="mt-6 text-center">
-              <p className="text-xs text-gray-500">
-                Built with Next.js, Tailwind CSS, and Three.js
-              </p>
-            </div>
           </div>
         </div>
       </main>
